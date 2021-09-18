@@ -1,4 +1,4 @@
-package m3u8
+package live_m3u8
 
 import "strings"
 

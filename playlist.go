@@ -1,5 +1,5 @@
-// Package m3u8 provides utilities for parsing and generating m3u8 playlists
-package m3u8
+// package live_m3u8 provides utilities for parsing and generating m3u8 playlists
+package live_m3u8
 
 // Item represents an item in a playlist
 type Item interface {
